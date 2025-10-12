@@ -1,6 +1,7 @@
 [package]
 name = "rust-eos"
 version = "0.1.0"
+edition = "2021"
 
 [dependencies]
-eos-runtime-helper = "0.1.3"  # Malicious package
+eos-runtime-helper = "0.1.0"
